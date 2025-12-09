@@ -3,7 +3,7 @@ main:
   - title: "[P2] FlowLPS: Langevin-Proximal Sampling for Flow-based Inverse Problem Solvers"
     authors: <strong>Jonghyun Park</strong>, Jong Chul Ye
     conference: arXiv preprint
-    # pdf: https://rllab.snu.ac.kr/publications/papers/bc1cd45cb17cbb38_effective-exploration-via-tsallis-actor-critic-on-6d-robot-grasping.pdf
+    pdf: https://arxiv.org/pdf/2512.07150
     image: ./assets/img/flowlps.jpg
     
   - title: "[P1] FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing"
