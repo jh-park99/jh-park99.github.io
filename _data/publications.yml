@@ -1,14 +1,14 @@
 main:
 
-  - title: "[P2] FlowLPS: Langevin-Proximal Sampling for Flow-based Inverse Problem Solvers"
+  - title: "[P1] FlowLPS: Langevin-Proximal Sampling for Flow-based Inverse Problem Solvers"
     authors: <strong>Jonghyun Park</strong>, Jong Chul Ye
     conference: arXiv preprint
     pdf: https://arxiv.org/pdf/2512.07150
     image: ./assets/img/flowlps.jpg
     
-  - title: "[P1] FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing"
+  - title: "[C2] FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing"
     authors: Jeongsol Kim*, Yeobin Hong*, <strong>Jonghyun Park</strong>, Jong Chul Ye
-    conference: arXiv preprint
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2505.23145
     image: ./assets/img/flowalign.png
 
