@@ -1,5 +1,11 @@
 main:
 
+  - title: "[P2] Tiled Prompts: Overcoming Prompt Underspecification in Image and Video Super-Resolution"
+    authors: Bryan Sangwoo Kim*, <strong>Jonghyun Park</strong>*, Jong Chul Ye
+    conference: arXiv preprint
+    pdf: https://arxiv.org/pdf/2602.03342
+    image: ./assets/img/tiled_prompts.jpg
+    
   - title: "[P1] FlowLPS: Langevin-Proximal Sampling for Flow-based Inverse Problem Solvers"
     authors: <strong>Jonghyun Park</strong>, Jong Chul Ye
     conference: arXiv preprint
