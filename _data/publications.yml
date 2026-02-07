@@ -14,6 +14,7 @@ main:
     
   - title: "[C2] FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing"
     authors: Jeongsol Kim*, Yeobin Hong*, <strong>Jonghyun Park</strong>, Jong Chul Ye
+    conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2505.23145
     image: ./assets/img/flowalign.png
