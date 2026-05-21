@@ -1,5 +1,11 @@
 main:
 
+  - title: "[P3] Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models"
+    authors: Taesung Kwon*, <strong>Jonghyun Park</strong>*, Hyungjin Chung&dagger;, Jong Chul Ye&dagger;
+    conference: arXiv preprint
+    pdf: https://arxiv.org/pdf/2605.20624
+    image: ./assets/img/avis.jpg
+
   - title: "[P2] Tiled Prompts: Overcoming Prompt Underspecification in Image and Video Super-Resolution"
     authors: Bryan Sangwoo Kim*, <strong>Jonghyun Park</strong>*, Jong Chul Ye
     conference: arXiv preprint
