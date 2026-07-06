@@ -11,7 +11,7 @@ I earned my B.S. in Naval Architecture and Ocean Engineering and Artificial Inte
 </p>
 
 <p style="font-size: 16px;">
-My research focuses on improving the controllability for <u>image and video synthesis</u>, including both generation and editing. 
+My research focuses on improving controllability in image and video synthesis, with an emphasis on inverse problem solving and diffusion model training.
 I believe that mathematical theories help us understand why these models work and provide better intuition for developing future methods and applications.
 </p>
 
