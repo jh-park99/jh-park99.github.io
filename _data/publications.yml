@@ -1,22 +1,22 @@
 main:
 
-  - title: "[P3] Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models"
+  - title: "[P2&W2] Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models"
     authors: Taesung Kwon*, <strong>Jonghyun Park</strong>*, Hyungjin Chung&dagger;, Jong Chul Ye&dagger;
-    conference: arXiv preprint
+    conference: ICML 2026 workshop on F2S.
     pdf: https://arxiv.org/pdf/2605.20624
     image: ./assets/img/avis.jpg
-
-  - title: "[P2] Tiled Prompts: Overcoming Prompt Underspecification in Image and Video Super-Resolution"
-    authors: Bryan Sangwoo Kim*, <strong>Jonghyun Park</strong>*, Jong Chul Ye
-    conference: arXiv preprint
-    pdf: https://arxiv.org/pdf/2602.03342
-    image: ./assets/img/tiled_prompts.jpg
-    
-  - title: "[P1] FlowLPS: Langevin-Proximal Sampling for Flow-based Inverse Problem Solvers"
+  
+  - title: "[P1&W1] FlowLPS: Langevin-Proximal Sampling for Flow-based Inverse Problem Solvers"
     authors: <strong>Jonghyun Park</strong>, Jong Chul Ye
-    conference: arXiv preprint
+    conference: ICML 2026 workshop on RLxF.
     pdf: https://arxiv.org/pdf/2512.07150
     image: ./assets/img/flowlps.jpg
+
+  - title: "[C3] Tiled Prompts: Overcoming Prompt Underspecification in Image and Video Super-Resolution"
+    authors: Bryan Sangwoo Kim*, <strong>Jonghyun Park</strong>*, Jong Chul Ye
+    conference: The 19th European Conference on Computer Vision <strong>(ECCV)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2602.03342
+    image: ./assets/img/tiled_prompts.jpg
     
   - title: "[C2] FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing"
     authors: Jeongsol Kim*, Yeobin Hong*, <strong>Jonghyun Park</strong>, Jong Chul Ye
