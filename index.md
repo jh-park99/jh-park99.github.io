@@ -17,7 +17,8 @@ I believe that mathematical theories help us understand why these models work an
 
 ## News
 
-- **[Feb.2025]** I started M.S. at <a href="https://gsai.kaist.ac.kr/">KAIST Graduate School of AI</a>. (Advisor: Prof. Jong Chul Ye)
+- **[July 2026]** I started a research internship at the <a href="https://vectorinstitute.ai/">Vector Institute</a>, mentored by Prof. Yaoliang Yu and Prof. Ricardo Baptista.
+- **[Feb 2025]** I started my M.S. program at the <a href="https://gsai.kaist.ac.kr/">KAIST Graduate School of AI</a>, advised by Prof. Jong Chul Ye.
 
 
 {% include_relative _includes/publications.md %}
