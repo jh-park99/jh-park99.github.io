@@ -1,12 +1,12 @@
 main:
 
-  - title: "[P2&W2] Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models"
+  - title: "[C4] Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models"
     authors: Taesung Kwon*, <strong>Jonghyun Park</strong>*, Hyungjin Chung&dagger;, Jong Chul Ye&dagger;
-    conference: ICML 2026 workshop on F2S.
+    conference: NeurIPS 2026.
     pdf: https://arxiv.org/pdf/2605.20624
     image: ./assets/img/avis.jpg
   
-  - title: "[P1&W1] FlowLPS: Langevin-Proximal Sampling for Flow-based Inverse Problem Solvers"
+  - title: "[W1] FlowLPS: Langevin-Proximal Sampling for Flow-based Inverse Problem Solvers"
     authors: <strong>Jonghyun Park</strong>, Jong Chul Ye
     conference: ICML 2026 workshop on RLxF.
     pdf: https://arxiv.org/pdf/2512.07150
