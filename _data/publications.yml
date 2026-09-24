@@ -2,6 +2,7 @@ main:
 
   - title: "[C4] Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models"
     authors: Taesung Kwon*, <strong>Jonghyun Park</strong>*, Hyungjin Chung&dagger;, Jong Chul Ye&dagger;
+    conference_short: NeurIPS
     conference: NeurIPS 2026.
     pdf: https://arxiv.org/pdf/2605.20624
     image: ./assets/img/avis.jpg
@@ -14,6 +15,7 @@ main:
 
   - title: "[C3] Tiled Prompts: Overcoming Prompt Underspecification in Image and Video Super-Resolution"
     authors: Bryan Sangwoo Kim*, <strong>Jonghyun Park</strong>*, Jong Chul Ye
+    conference_short: ECCV
     conference: The 19th European Conference on Computer Vision <strong>(ECCV)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2602.03342
     image: ./assets/img/tiled_prompts.jpg
