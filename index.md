@@ -11,9 +11,9 @@ I earned my B.S. in Naval Architecture and Ocean Engineering and Artificial Inte
 </p>
 
 <p style="font-size: 16px;">
-My research focuses on controllable and efficient image and video generation, editing, and restoration using diffusion and flow models.
-I also study how to train generative models from noisy or incomplete real-world observations when clean supervision is limited or unavailable.
-I am particularly interested in extending these methods to controllable world models.
+My research focuses on diffusion and flow models for learning and inference from imperfect observations.
+I develop efficient methods for image and video inverse problems and study generative-model training from corrupted data when clean data are scarce or unavailable.
+I am interested in extending these methods to medical image reconstruction and analysis, with an emphasis on robustness, quantitative accuracy, and reliable inference from real-world health data.
 </p>
 
 ## News
